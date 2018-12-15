@@ -1,0 +1,13 @@
+body{
+        margin: 0;
+    }
+    .box div{
+        background: orange;
+        float: left;
+        margin-left: 3.25%;
+        margin-top: 3.25%;
+        border-radius: 10%;
+        padding-left: 29%;
+        padding-bottom: 29%;
+        
+    }
